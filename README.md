@@ -3,6 +3,7 @@
 
 - 🔭 Hoje Trabalho como SysAdmin
 - 🌱 Estudando DevOps: Kubernets
+- 🚀 Proximos passos: AWS e Terraform
 
 
 
