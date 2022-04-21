@@ -1,9 +1,8 @@
 # 🚧 README em construção
 ### Olá, me chamo Iure Radin
 
-- 🔭 Hoje Trabalho como SysAdmin
-- 🌱 Estudando DevOps: Kubernets, AWS
-- 🚀 Proximos passos: Terraform
+- 🔭 DevOps Junior
+- 🌱 Estudando DevOps:Terraform 
 
 
 
