@@ -2,7 +2,7 @@
 ### Olá, me chamo Iure Radin
 
 - 🔭 DevOps Junior
-- 🌱 Estudando DevOps:Terraform 
+- 🌱 Estudando DevOps:Terraform, ansible, AWS
 
 
 
