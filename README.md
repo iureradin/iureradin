@@ -1,7 +1,7 @@
 # 🚧 README em construção
 ### Olá, me chamo Iure Radin
 
-- 🔭 DevOps Junior
+- 🔭 Analista Cloud
 - 🌱 Estudando DevOps:Terraform, ansible, AWS
 
 
