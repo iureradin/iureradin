@@ -1,8 +1,7 @@
-# 🚧 README em construção
 ### Olá, me chamo Iure Radin
 
-- 🔭 Analista Cloud
-- 🌱 Estudando DevOps:Terraform, ansible, AWS
+- 🔭 Analista Cloud (AWS), DevOps, SRE, automação
+
 
 
 
